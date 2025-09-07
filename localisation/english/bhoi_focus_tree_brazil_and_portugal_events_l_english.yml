@@ -1,0 +1,34 @@
+﻿l_english:
+
+ # Events
+ lar_portugal_promote_monarchist_cause.101.t: "Reunite the Kingdom of Portugal and Brazil"
+ lar_portugal_promote_monarchist_cause.101.desc: "[POR.GetNameDefCap] entrou em contato com nosso governo, propondo a unificação de nossas nações sob o comando de Dom Duarte Nuno, que será coroado rei de Portugal e do Brasil. \n\nO governo [POR.GetAdjective] disse que não aceita uma resposta negativa, e nos pediu para aceitar a proposta para evitar um potencial conflito entre nossas nações."
+ lar_portugal_promote_monarchist_cause.101.a: "[Root.GetNameDefCap] e [POR.GetNameDef] se unirão novamente."
+ lar_portugal_promote_monarchist_cause.101.b: "[Root.GetNameDefCap] continuará como uma nação independente."
+ lar_portugal_promote_monarchist_cause.101.c: "We would prefer it to be a commonwealth actually."
+
+ lar_portugal_promote_monarchist_cause.102.t: "[BRA.GetNameDefCap] Proposes Commonwealth"
+ lar_portugal_promote_monarchist_cause.102.desc: "Our recent proposal to [BRA.GetNameDef] has garnered a surprising response. [BRA.GetNameDefCap] rejects the idea of unification, but in lieu of this proposes a commonwealth for our two nations. This would give us some of the benefits of unification, less of the drawbacks, and allow both of our nations to retain their own unique identity."
+ lar_portugal_promote_monarchist_cause.102.a: "Certainly, this could benefit us just as well!"
+ lar_portugal_promote_monarchist_cause.102.b: "A commonwealth with our old colony? Absolutely not."
+
+ lar_portugal_promote_monarchist_cause.103.t: "[POR.GetNameDefCap] Agrees to Establish Commonwealth"
+ lar_portugal_promote_monarchist_cause.103.desc: "Our counter-proposal to establish a commonwealth rather than join [POR.GetNameDef] outright has landed well with the [POR.GetAdjective] leadership. The have renounced the idea of unification and agrees that a commonwealth would be great for both of us."
+ lar_portugal_promote_monarchist_cause.103.a: "Excellent!"
+
+ lar_portugal_promote_monarchist_cause.104.t: "[BRA.GetNameDefCap] Rejects Commonwealth Proposal"
+ lar_portugal_promote_monarchist_cause.104.desc: "Our counter-proposal to establish a commonwealth rather than join [BRA.GetNameDef] outright has landed badly with the [BRA.GetAdjective] leadership. They have rejected the idea of a commonwealth citing worries that they would fall under our control as a colony once again."
+ lar_portugal_promote_monarchist_cause.104.a: "Their loss."
+
+ lar_portugal_promote_monarchist_cause.105.t: "[POR.GetNameDefCap] Proposes Personal Union"
+ lar_portugal_promote_monarchist_cause.105.desc: "The government of [POR.GetNameDef] has approached us with a bold proposal: the establishment of a personal union between our crowns. They argue that by uniting under one monarch, the Iberian peoples can secure stability, prosperity, and greater influence on the world stage. While such an arrangement would strengthen ties between our nations, it would also require us to accept a degree of Portuguese leadership in our affairs."
+ lar_portugal_promote_monarchist_cause.105.a: "A united crown will bring strength and glory."
+ lar_portugal_promote_monarchist_cause.105.b: "We shall not submit our sovereignty to Lisbon."
+
+ lar_portugal_promote_monarchist_cause.106.t: "[SPB.GetNameDefCap] Accepts the Union"
+ lar_portugal_promote_monarchist_cause.106.desc: "Our proposal has borne fruit: the Carlist government has formally accepted the establishment of a personal union. By binding our crowns together, the Iberian peoples now stand united under one monarch. This moment marks the dawn of a new era for the Lusophone and Hispanic worlds alike, promising strength, stability, and influence that neither nation could achieve alone."
+ lar_portugal_promote_monarchist_cause.106.a: "A glorious union of crowns!"
+
+ lar_portugal_promote_monarchist_cause.107.t: "[SPB.GetNameDefCap] Rejects the Union"
+ lar_portugal_promote_monarchist_cause.107.desc: "Our overtures have been met with cold refusal. The Carlist government has rejected the proposal for a personal union, unwilling to share or yield sovereignty to Lisbon. Though our vision of a united Iberian crown has been set aside for now, the idea remains alive, and perhaps one day they will see the wisdom in unity."
+ lar_portugal_promote_monarchist_cause.107.a: "A short-sighted decision..."

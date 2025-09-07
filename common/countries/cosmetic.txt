@@ -1,0 +1,9 @@
+BHOI_BRA_NEW_EMPIRE = {
+	color = rgb { 80 100 35 }
+	color_ui = rgb { 80 100 35 }
+}
+
+BHOI_IBE_UNION = {
+	color = rgb { 255 219 0 }
+    color_ui = rgb { 255 219 0 }
+}
