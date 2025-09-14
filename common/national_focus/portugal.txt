@@ -3095,7 +3095,7 @@ focus_tree = {
 		y = 1
 
 		relative_position_id = POR_join_the_comintern
-		cost = 10
+		cost = 5
 		search_filters = {FOCUS_FILTER_RESEARCH}
 		completion_reward = { 	
 			SOV = { add_to_tech_sharing_group = comintern_research }
@@ -3126,7 +3126,7 @@ focus_tree = {
 		y = 1
 
 		relative_position_id = POR_join_the_comintern
-		cost = 10
+		cost = 5
 		completion_reward = { 	
 			hidden_effect = {
 				add_equipment_to_stockpile = {
@@ -3301,7 +3301,7 @@ focus_tree = {
 		y = 1
 
 		relative_position_id = POR_popular_front
-		cost = 10
+		cost = 5
 		completion_reward = {
 			if = {
 				limit = {
@@ -3632,7 +3632,7 @@ focus_tree = {
 		y = 1
 
 		relative_position_id = POR_the_iberian_socialist_union
-		cost = 10
+		cost = 5
 		completion_reward = {
 			create_faction = POR_popular_front_bloc
 			every_other_country = {
@@ -3804,7 +3804,7 @@ focus_tree = {
 		y = 1
 
 		relative_position_id = POR_latin_american_communism
-		cost = 10
+		cost = 5
 		completion_reward = { 
 			every_other_country = {
 				limit = {
@@ -4070,7 +4070,7 @@ focus_tree = {
 		y = 1
 
 		relative_position_id = POR_they_need_our_help
-		cost = 10
+		cost = 5
 		completion_reward = {
 			hidden_effect = {
 				every_country = {
@@ -4126,7 +4126,7 @@ focus_tree = {
 		y = 1
 
 		relative_position_id = POR_they_need_our_help
-		cost = 10
+		cost = 5
 		completion_reward = {
 			hidden_effect = {
 				every_other_country = {
@@ -4234,7 +4234,7 @@ focus_tree = {
 		y = 0
 
 		relative_position_id = POR_support_the_spanish_republic
-		cost = 10
+		cost = 5
 		completion_reward = { 	
 			every_other_country = {
 				add_opinion_modifier = {
@@ -4328,7 +4328,7 @@ focus_tree = {
 		y = 1
 
 		relative_position_id = POR_strict_neutrality_in_the_spanish_civil_war
-		cost = 10
+		cost = 5
 		completion_reward = { 
 			unlock_decision_tooltip = POR_buy_aa_in_britain	
 			unlock_decision_tooltip = POR_buy_at_in_britain
@@ -4603,7 +4603,7 @@ focus_tree = {
 		y = 1
 
 		relative_position_id = POR_join_the_allies
-		cost = 10
+		cost = 5
 		search_filters = {FOCUS_FILTER_RESEARCH}
 		completion_reward = { 
 			ENG = { add_to_tech_sharing_group = commonwealth_research }
@@ -4640,7 +4640,7 @@ focus_tree = {
 		y = 1
 
 		relative_position_id = POR_join_the_allies
-		cost = 10
+		cost = 5
 		completion_reward = { 	
 			create_wargoal = {
 				target = GER
@@ -4722,7 +4722,7 @@ focus_tree = {
 		y = 1
 
 		relative_position_id = POR_allow_free_elections
-		cost = 10
+		cost = 5
 		completion_reward = { 
 			unlock_decision_tooltip = POR_iberian_summit_pro_axis
 			unlock_decision_tooltip = POR_iberian_summit_pro_allies
@@ -4774,7 +4774,7 @@ focus_tree = {
 		y = 1
 
 		relative_position_id = POR_estado_novo
-		cost = 10
+		cost = 5
 		completion_reward = { 	
 			SPA = {
 				add_opinion_modifier = {
@@ -4815,7 +4815,7 @@ focus_tree = {
 		y = 1
 
 		relative_position_id = POR_support_the_spanish_nationalists
-		cost = 10
+		cost = 5
 		search_filters = {FOCUS_FILTER_MANPOWER}
 		completion_reward = {
 			add_ideas = por_portuguese_legion
@@ -5011,7 +5011,7 @@ focus_tree = {
 		y = 1
 
 		relative_position_id = POR_send_assistance
-		cost = 10
+		cost = 5
 		completion_reward = { 	
 			hidden_effect = {
 				every_country = {
@@ -5385,7 +5385,7 @@ focus_tree = {
 		y = 1
 
 		relative_position_id = POR_proudly_alone
-		cost = 10
+		cost = 5
 		completion_reward = { 
 			create_wargoal = {
 				target = JAP
@@ -5447,7 +5447,7 @@ focus_tree = {
 		y = 1
 
 		relative_position_id = POR_national_syndicalism
-		cost = 10
+		cost = 5
 		search_filters = {FOCUS_FILTER_POLITICAL}
 		completion_reward = {
 			remove_ideas = POR_estado_novo
@@ -5574,7 +5574,7 @@ focus_tree = {
 		y = 1
 
 		relative_position_id = POR_join_the_axis
-		cost = 10
+		cost = 5
 		search_filters = {FOCUS_FILTER_RESEARCH}
 		completion_reward = {
 			GER = { add_to_tech_sharing_group = axis_research }
@@ -5853,7 +5853,7 @@ focus_tree = {
 		y = 1
 
 		relative_position_id = POR_the_fifth_empire
-		cost = 10
+		cost = 5
 		completion_reward = { 
 			create_wargoal = {
 				target = JAP
@@ -5899,7 +5899,7 @@ focus_tree = {
 		y = 1
 
 		relative_position_id = POR_national_syndicalism
-		cost = 10
+		cost = 5
 		completion_reward = { 
 			every_other_country = {
 				limit = {
@@ -5966,7 +5966,7 @@ focus_tree = {
 		y = 1
 
 		relative_position_id = POR_refuse_the_naval_blockade
-		cost = 10
+		cost = 5
 		completion_reward = { 	
 			add_state_claim = 770 #Malawi
 			add_state_claim = 545 #Rhodesia
@@ -6036,7 +6036,7 @@ focus_tree = {
 		y = 1
 
 		relative_position_id = POR_mapa_cor_de_rosa
-		cost = 10
+		cost = 5
 		completion_reward = { 
 			add_state_claim = 336 # Singapore
 			add_state_claim = 667 # Lesser Sunda
@@ -6122,7 +6122,7 @@ focus_tree = {
 		y = 2
 
 		relative_position_id = POR_mapa_cor_de_rosa
-		cost = 10
+		cost = 5
 		completion_reward = { 	
 			add_state_claim = 500 #Rio
 			add_state_claim = 501 #Sap Paulo
@@ -6206,7 +6206,7 @@ focus_tree = {
 		y = 2
 
 		relative_position_id = POR_a_royal_wedding
-		cost = 10
+		cost = 5
 		search_filters = {FOCUS_FILTER_POLITICAL}
 		completion_reward = { 	
 			set_party_name = { 
@@ -6270,7 +6270,7 @@ focus_tree = {
 		y = 1
 
 		relative_position_id = POR_the_return_of_duarte
-		cost = 10
+		cost = 5
 		completion_reward = { 	
 			SPB = {
 				add_opinion_modifier = {
@@ -6490,7 +6490,7 @@ focus_tree = {
 		y = 1
 
 		relative_position_id = POR_support_carlist_insurgency
-		cost = 5
+		cost = 10
 		completion_reward = { 	
 			hidden_effect = {
 				SPB = {
@@ -6681,7 +6681,7 @@ focus_tree = {
 		y = 1
 
 		relative_position_id = POR_carlist_uprising_in_spain
-		cost = 5
+		cost = 10
 		completion_reward = { 	
 			POR = {
 				if = {
@@ -6901,7 +6901,7 @@ focus_tree = {
 		y = 1
 
 		relative_position_id = POR_the_return_of_duarte
-		cost = 10
+		cost = 5
 		search_filters = {FOCUS_FILTER_POLITICAL}
 		completion_reward = { 	
 			add_timed_idea = {
@@ -7616,7 +7616,7 @@ focus_tree = {
 		y = 2
 
 		relative_position_id = POR_restoration_of_the_monarchy
-		cost = 10
+		cost = 5
 		completion_reward = { 	
 			add_state_claim = 170
 			add_state_claim = 169
@@ -7790,7 +7790,7 @@ focus_tree = {
 		y = 1
 
 		relative_position_id = POR_the_kingdom_reunited
-		cost = 10
+		cost = 5
 		completion_reward = { 
 			add_state_claim = 300
 			add_state_claim = 945
@@ -7876,7 +7876,7 @@ focus_tree = {
 		y = 1
 
 		relative_position_id = POR_latin_america
-		cost = 10
+		cost = 5
 		completion_reward = {
 			hidden_effect = {
 				every_country = {

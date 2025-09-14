@@ -1,0 +1,34 @@
+﻿l_braz_por:
+
+ # Eventos
+ lar_portugal_promote_monarchist_cause.101.t: "Reunir o Reino de Portugal e Brasil"
+ lar_portugal_promote_monarchist_cause.101.desc: "[POR.GetNameDefCap] entrou em contato com nosso governo, propondo a unificação de nossas nações sob o comando de Dom Duarte Nuno, que será coroado rei de Portugal e do Brasil. \n\nO governo [POR.GetAdjective] disse que não aceita uma resposta negativa, e nos pediu para aceitar a proposta para evitar um potencial conflito entre nossas nações."
+ lar_portugal_promote_monarchist_cause.101.a: "[Root.GetNameDefCap] e [POR.GetNameDef] se unirão novamente."
+ lar_portugal_promote_monarchist_cause.101.b: "[Root.GetNameDefCap] continuará como uma nação independente."
+ lar_portugal_promote_monarchist_cause.101.c: "Na verdade, preferimos que seja uma comunidade."
+
+ lar_portugal_promote_monarchist_cause.102.t: "[BRA.GetNameDefCap] Propõe Comunidade"
+ lar_portugal_promote_monarchist_cause.102.desc: "Nossa recente proposta para [BRA.GetNameDef] teve uma resposta surpreendente. [BRA.GetNameDefCap] rejeita a ideia de unificação, mas propõe em vez disso uma comunidade para nossas duas nações. Isso nos daria alguns dos benefícios da unificação, menos os inconvenientes, e permitiria que ambas as nações mantivessem sua identidade única."
+ lar_portugal_promote_monarchist_cause.102.a: "Certamente, isso pode nos beneficiar igualmente!"
+ lar_portugal_promote_monarchist_cause.102.b: "Uma comunidade com nossa antiga colônia? Absolutamente não."
+
+ lar_portugal_promote_monarchist_cause.103.t: "[POR.GetNameDefCap] Concorda em Estabelecer Comunidade"
+ lar_portugal_promote_monarchist_cause.103.desc: "Nossa contraproposta para estabelecer uma comunidade em vez de unir-se diretamente a [POR.GetNameDef] foi bem recebida pela liderança [POR.GetAdjective]. Eles renunciaram à ideia de unificação e concordam que uma comunidade seria ótima para ambos."
+ lar_portugal_promote_monarchist_cause.103.a: "Excelente!"
+
+ lar_portugal_promote_monarchist_cause.104.t: "[BRA.GetNameDefCap] Rejeita Proposta de Comunidade"
+ lar_portugal_promote_monarchist_cause.104.desc: "Nossa contraproposta para estabelecer uma comunidade em vez de unir-se diretamente a [BRA.GetNameDef] foi mal recebida pela liderança [BRA.GetAdjective]. Eles rejeitaram a ideia de comunidade, citando preocupações de que voltariam a ser uma colônia sob nosso controle."
+ lar_portugal_promote_monarchist_cause.104.a: "Perda deles."
+
+ lar_portugal_promote_monarchist_cause.105.t: "[POR.GetNameDefCap] Propõe União Pessoal"
+ lar_portugal_promote_monarchist_cause.105.desc: "O governo de [POR.GetNameDef] nos abordou com uma proposta ousada: o estabelecimento de uma união pessoal entre nossas coroas. Eles argumentam que, ao unir sob um monarca, os povos ibéricos podem garantir estabilidade, prosperidade e maior influência no cenário mundial. Embora tal arranjo fortaleça os laços entre nossas nações, também exigiria que aceitássemos um grau de liderança portuguesa em nossos assuntos."
+ lar_portugal_promote_monarchist_cause.105.a: "Uma coroa unida trará força e glória."
+ lar_portugal_promote_monarchist_cause.105.b: "Não vamos submeter nossa soberania a Lisboa."
+
+ lar_portugal_promote_monarchist_cause.106.t: "[SPB.GetNameDefCap] Aceita a União"
+ lar_portugal_promote_monarchist_cause.106.desc: "Nossa proposta deu frutos: o governo carlista aceitou formalmente o estabelecimento de uma união pessoal. Ao unir nossas coroas, os povos ibéricos agora estão unidos sob um monarca. Este momento marca o início de uma nova era para os mundos lusófono e hispânico, prometendo força, estabilidade e influência que nenhuma nação poderia alcançar sozinha."
+ lar_portugal_promote_monarchist_cause.106.a: "Uma união gloriosa de coroas!"
+
+ lar_portugal_promote_monarchist_cause.107.t: "[SPB.GetNameDefCap] Rejeita a União"
+ lar_portugal_promote_monarchist_cause.107.desc: "Nossas propostas foram recebidas com recusa fria. O governo carlista rejeitou a proposta de união pessoal, não querendo compartilhar ou ceder soberania a Lisboa. Embora nossa visão de uma coroa ibérica unida tenha sido deixada de lado por enquanto, a ideia permanece viva, e talvez um dia eles vejam a sabedoria na unidade."
+ lar_portugal_promote_monarchist_cause.107.a: "Uma decisão míope..."

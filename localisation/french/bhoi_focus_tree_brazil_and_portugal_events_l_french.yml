@@ -1,0 +1,34 @@
+﻿l_french:
+
+ # Événements
+ lar_portugal_promote_monarchist_cause.101.t: "Réunir le Royaume du Portugal et du Brésil"
+ lar_portugal_promote_monarchist_cause.101.desc: "[POR.GetNameDefCap] a contacté notre gouvernement, proposant l'unification de nos nations sous le commandement de Dom Duarte Nuno, qui sera couronné roi du Portugal et du Brésil. \n\nLe gouvernement [POR.GetAdjective] a dit qu'il n'accepte pas de réponse négative, et nous a demandé d'accepter la proposition pour éviter un conflit potentiel entre nos nations."
+ lar_portugal_promote_monarchist_cause.101.a: "[Root.GetNameDefCap] et [POR.GetNameDef] seront réunis à nouveau."
+ lar_portugal_promote_monarchist_cause.101.b: "[Root.GetNameDefCap] restera une nation indépendante."
+ lar_portugal_promote_monarchist_cause.101.c: "Nous préférerions en fait que ce soit une communauté."
+
+ lar_portugal_promote_monarchist_cause.102.t: "[BRA.GetNameDefCap] Propose une Communauté"
+ lar_portugal_promote_monarchist_cause.102.desc: "Notre récente proposition à [BRA.GetNameDef] a reçu une réponse surprenante. [BRA.GetNameDefCap] rejette l'idée d'unification, mais propose à la place une communauté pour nos deux nations. Cela nous donnerait certains des avantages de l'unification, moins les inconvénients, et permettrait à nos deux nations de conserver leur identité unique."
+ lar_portugal_promote_monarchist_cause.102.a: "Certainement, cela pourrait nous être tout aussi bénéfique !"
+ lar_portugal_promote_monarchist_cause.102.b: "Une communauté avec notre ancienne colonie ? Absolument pas."
+
+ lar_portugal_promote_monarchist_cause.103.t: "[POR.GetNameDefCap] Accepte d'Établir une Communauté"
+ lar_portugal_promote_monarchist_cause.103.desc: "Notre contre-proposition d'établir une communauté plutôt que de rejoindre directement [POR.GetNameDef] a été bien accueillie par la direction [POR.GetAdjective]. Ils ont renoncé à l'idée d'unification et acceptent qu'une communauté serait excellente pour nous deux."
+ lar_portugal_promote_monarchist_cause.103.a: "Excellent !"
+
+ lar_portugal_promote_monarchist_cause.104.t: "[BRA.GetNameDefCap] Rejette la Proposition de Communauté"
+ lar_portugal_promote_monarchist_cause.104.desc: "Notre contre-proposition d'établir une communauté plutôt que de rejoindre directement [BRA.GetNameDef] a été mal accueillie par la direction [BRA.GetAdjective]. Ils ont rejeté l'idée de communauté, invoquant des craintes de redevenir une colonie sous notre contrôle."
+ lar_portugal_promote_monarchist_cause.104.a: "Leur perte."
+
+ lar_portugal_promote_monarchist_cause.105.t: "[POR.GetNameDefCap] Propose une Union Personnelle"
+ lar_portugal_promote_monarchist_cause.105.desc: "Le gouvernement de [POR.GetNameDef] nous a approchés avec une proposition audacieuse : l'établissement d'une union personnelle entre nos couronnes. Ils soutiennent qu'en s'unissant sous un seul monarque, les peuples ibériques peuvent assurer la stabilité, la prospérité et une plus grande influence sur la scène mondiale. Bien qu'un tel arrangement renforcerait les liens entre nos nations, il exigerait également que nous acceptions un certain degré de leadership portugais dans nos affaires."
+ lar_portugal_promote_monarchist_cause.105.a: "Une couronne unie apportera force et gloire."
+ lar_portugal_promote_monarchist_cause.105.b: "Nous ne soumettrons pas notre souveraineté à Lisbonne."
+
+ lar_portugal_promote_monarchist_cause.106.t: "[SPB.GetNameDefCap] Accepte l'Union"
+ lar_portugal_promote_monarchist_cause.106.desc: "Notre proposition a porté ses fruits : le gouvernement carliste a accepté formellement l'établissement d'une union personnelle. En unissant nos couronnes, les peuples ibériques sont désormais unis sous un seul monarque. Ce moment marque l'aube d'une nouvelle ère pour les mondes lusophone et hispanique, promettant force, stabilité et influence qu'aucune nation ne pourrait atteindre seule."
+ lar_portugal_promote_monarchist_cause.106.a: "Une union glorieuse de couronnes !"
+
+ lar_portugal_promote_monarchist_cause.107.t: "[SPB.GetNameDefCap] Rejette l'Union"
+ lar_portugal_promote_monarchist_cause.107.desc: "Nos propositions ont été accueillies par un refus froid. Le gouvernement carliste a rejeté la proposition d'union personnelle, ne voulant pas partager ou céder la souveraineté à Lisbonne. Bien que notre vision d'une couronne ibérique unie ait été mise de côté pour l'instant, l'idée reste vivante, et peut-être qu'un jour ils verront la sagesse de l'unité."
+ lar_portugal_promote_monarchist_cause.107.a: "Une décision à courte vue..."
