@@ -1,0 +1,19 @@
+﻿l_japanese:
+
+ # New Brazilian Empire
+ BHOI_BRA_NEW_EMPIRE_neutrality:0 "新ブラジル帝国"
+ BHOI_BRA_NEW_EMPIRE_neutrality_DEF:0 "新ブラジル帝国"
+
+ # Iberian State
+ BHOI_IBE_UNION_fascism:0 "イベリア国家"
+ BHOI_IBE_UNION_fascism_DEF:0 "イベリア国家"
+ BHOI_IBE_UNION_democratic:0 "イベリア連邦"
+ BHOI_IBE_UNION_democratic_DEF:0 "イベリア連邦"
+ BHOI_IBE_UNION_neutrality:0 "イベリア連合"
+ BHOI_IBE_UNION_neutrality_DEF:0 "イベリア連合"
+ BHOI_IBE_UNION_communism:0 "イベリア人民共和国"
+ BHOI_IBE_UNION_communism_DEF:0 "イベリア人民共和国"
+ BHOI_IBE_UNION_fascism_ADJ:0 "イベリア"
+ BHOI_IBE_UNION_democratic_ADJ:0 "イベリア"
+ BHOI_IBE_UNION_neutrality_ADJ:0 "イベリア"
+ BHOI_IBE_UNION_communism_ADJ:0 "イベリア"

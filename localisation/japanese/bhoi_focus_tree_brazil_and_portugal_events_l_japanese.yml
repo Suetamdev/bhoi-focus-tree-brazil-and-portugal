@@ -1,0 +1,34 @@
+﻿l_japanese:
+
+ # Events
+ lar_portugal_promote_monarchist_cause.101.t: "ポルトガルとブラジル王国の再統一"
+ lar_portugal_promote_monarchist_cause.101.desc: "[POR.GetNameDefCap]は我々の政府に連絡し、ドン・ドゥアルテ・ヌーノの指揮下で両国を統一し、彼をポルトガルとブラジルの王として戴冠させることを提案しました。\n\n[POR.GetAdjective]政府は否定的な返答を受け入れず、両国間の潜在的な衝突を避けるために提案を受け入れるよう求めてきました。"
+ lar_portugal_promote_monarchist_cause.101.a: "[Root.GetNameDefCap]と[POR.GetNameDef]は再び一つになる。"
+ lar_portugal_promote_monarchist_cause.101.b: "[Root.GetNameDefCap]は独立国家のままでいる。"
+ lar_portugal_promote_monarchist_cause.101.c: "実際には連邦の方が望ましい。"
+
+ lar_portugal_promote_monarchist_cause.102.t: "[BRA.GetNameDefCap]が連邦を提案"
+ lar_portugal_promote_monarchist_cause.102.desc: "[BRA.GetNameDef]への最近の提案には驚くべき返答がありました。[BRA.GetNameDefCap]は統一案を拒否し、その代わりに両国の連邦を提案しています。これにより統一の利点の一部を享受しつつ、両国が独自のアイデンティティを維持できます。"
+ lar_portugal_promote_monarchist_cause.102.a: "確かに、これは我々にも有益だろう！"
+ lar_portugal_promote_monarchist_cause.102.b: "かつての植民地と連邦？絶対にない。"
+
+ lar_portugal_promote_monarchist_cause.103.t: "[POR.GetNameDefCap]が連邦設立に同意"
+ lar_portugal_promote_monarchist_cause.103.desc: "[POR.GetNameDef]への直接統一ではなく連邦設立という我々の対案は[POR.GetAdjective]指導部に好意的に受け入れられました。彼らは統一案を放棄し、連邦が両国にとって最良だと同意しています。"
+ lar_portugal_promote_monarchist_cause.103.a: "素晴らしい！"
+
+ lar_portugal_promote_monarchist_cause.104.t: "[BRA.GetNameDefCap]が連邦案を拒否"
+ lar_portugal_promote_monarchist_cause.104.desc: "[BRA.GetNameDef]への直接統一ではなく連邦設立という我々の対案は[BRA.GetAdjective]指導部に否定的に受け止められました。彼らは再び植民地支配下に置かれることを懸念し、連邦案を拒否しました。"
+ lar_portugal_promote_monarchist_cause.104.a: "彼らの損失だ。"
+
+ lar_portugal_promote_monarchist_cause.105.t: "[POR.GetNameDefCap]が同君連合を提案"
+ lar_portugal_promote_monarchist_cause.105.desc: "[POR.GetNameDef]政府は大胆な提案を持ちかけてきました。それは両国の王冠の同君連合設立です。一人の君主の下でイベリア諸国が団結すれば、安定、繁栄、そして世界的影響力を得られると主張しています。このような体制は両国の絆を強めますが、我々の内政におけるポルトガルの主導権をある程度受け入れる必要もあります。"
+ lar_portugal_promote_monarchist_cause.105.a: "統一王冠は力と栄光をもたらす。"
+ lar_portugal_promote_monarchist_cause.105.b: "我々は主権をリスボンに譲らない。"
+
+ lar_portugal_promote_monarchist_cause.106.t: "[SPB.GetNameDefCap]が連合を受諾"
+ lar_portugal_promote_monarchist_cause.106.desc: "我々の提案は実を結びました。カルリスタ政府は同君連合の設立を正式に受け入れました。王冠の統一により、イベリア諸国は一人の君主の下で団結しました。これはルソフォンとヒスパニック世界にとって新時代の幕開けであり、いずれの国も単独では成し得ない力、安定、影響力を約束します。"
+ lar_portugal_promote_monarchist_cause.106.a: "王冠の栄光ある統一！"
+
+ lar_portugal_promote_monarchist_cause.107.t: "[SPB.GetNameDefCap]が連合を拒否"
+ lar_portugal_promote_monarchist_cause.107.desc: "我々の提案は冷たく拒絶されました。カルリスタ政府は同君連合案を拒否し、リスボンへの主権譲渡を拒みました。イベリア王冠統一の夢は一旦棚上げとなりましたが、その理念は生き続け、いつか彼らも団結の知恵に気づくかもしれません。"
+ lar_portugal_promote_monarchist_cause.107.a: "短絡的な決断だ..."

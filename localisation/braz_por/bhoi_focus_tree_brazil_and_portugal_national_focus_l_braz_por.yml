@@ -1,6 +1,6 @@
 ﻿l_braz_por:
 
- # Brasil
+ # Brazil
  BRA_second_paraguay_war:0 "Segunda Guerra do Paraguai"
  BRA_second_paraguay_war_desc:0 "A Guerra do Paraguai foi um evento sangrento, tornando-se um dos fatores que levaram à queda de nossa monarquia anos atrás. Desta vez, provaremos o poder de nosso novo regime derrotando completamente nosso antigo inimigo e garantindo nossa supremacia sobre a bacia do Rio da Prata."
  BRA_supremacy_in_the_south:0 "Supremacia no Sul"
@@ -39,7 +39,7 @@
  POR_brazilian_clains:0 "Reivindicações Brasileiras"
  POR_brazilian_clains_desc:0 "As terras antes pertencentes às colônias espanholas e portuguesas agora devem ser legitimamente reivindicadas pelo Brasil."
 
- # Comunidade Lusófona
+ # Lusophone Commonwealth
  LUSOPHONE_commonwealth_capital:0 "A Capital da Comunidade Lusófona"
  LUSOPHONE_commonwealth_capital_desc:0 "Com o estabelecimento da Comunidade Lusófona, surge a questão: onde estará seu coração?"
  LUSOPHONE_high_command:0 "Alto Comando Lusófono"
@@ -111,7 +111,7 @@
  LUSOPHONE_standardize_aerial_production:0 "Padronizar Produção Aérea"
  LUSOPHONE_standardize_aerial_production_desc:0 "Para otimizar e aprimorar nossas capacidades da força aérea, a Comunidade Lusófona padronizará os processos de produção aérea."
 
- # Foco Compartilhado Lusófono
+ # Shared Lusophone Focus
  lc_army_effort: "$army_effort$"
  lc_army_effort_desc: "$army_effort_desc$"
  lc_equipment_effort: "$equipment_effort$"

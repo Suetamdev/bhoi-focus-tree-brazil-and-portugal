@@ -1,0 +1,34 @@
+﻿l_polish:
+
+ # Wydarzenia
+ lar_portugal_promote_monarchist_cause.101.t: "Zjednoczenie Królestwa Portugalii i Brazylii"
+ lar_portugal_promote_monarchist_cause.101.desc: "[POR.GetNameDefCap] skontaktował się z naszym rządem, proponując zjednoczenie naszych narodów pod dowództwem Dom Duarte Nuno, który zostanie koronowany na króla Portugalii i Brazylii.\n\nRząd [POR.GetAdjective] nie akceptuje odmowy i prosi nas o przyjęcie propozycji, aby uniknąć potencjalnego konfliktu między naszymi narodami."
+ lar_portugal_promote_monarchist_cause.101.a: "[Root.GetNameDefCap] i [POR.GetNameDef] znów będą razem."
+ lar_portugal_promote_monarchist_cause.101.b: "[Root.GetNameDefCap] pozostanie niepodległym państwem."
+ lar_portugal_promote_monarchist_cause.101.c: "Właściwie wolelibyśmy wspólnotę."
+
+ lar_portugal_promote_monarchist_cause.102.t: "[BRA.GetNameDefCap] proponuje wspólnotę"
+ lar_portugal_promote_monarchist_cause.102.desc: "Nasza ostatnia propozycja dla [BRA.GetNameDef] spotkała się z zaskakującą odpowiedzią. [BRA.GetNameDefCap] odrzuca ideę zjednoczenia, ale zamiast tego proponuje wspólnotę dla naszych dwóch narodów. Dałoby nam to część korzyści zjednoczenia, mniej wad i pozwoliłoby obu narodom zachować własną tożsamość."
+ lar_portugal_promote_monarchist_cause.102.a: "Z pewnością to może nam się opłacić!"
+ lar_portugal_promote_monarchist_cause.102.b: "Wspólnota z naszą dawną kolonią? Absolutnie nie."
+
+ lar_portugal_promote_monarchist_cause.103.t: "[POR.GetNameDefCap] zgadza się na utworzenie wspólnoty"
+ lar_portugal_promote_monarchist_cause.103.desc: "Nasza kontrpropozycja utworzenia wspólnoty zamiast bezpośredniego zjednoczenia z [POR.GetNameDef] została dobrze przyjęta przez przywódców [POR.GetAdjective]. Zrezygnowali z idei zjednoczenia i zgadzają się, że wspólnota będzie korzystna dla obu stron."
+ lar_portugal_promote_monarchist_cause.103.a: "Świetnie!"
+
+ lar_portugal_promote_monarchist_cause.104.t: "[BRA.GetNameDefCap] odrzuca propozycję wspólnoty"
+ lar_portugal_promote_monarchist_cause.104.desc: "Nasza kontrpropozycja utworzenia wspólnoty zamiast bezpośredniego zjednoczenia z [BRA.GetNameDef] została źle przyjęta przez przywódców [BRA.GetAdjective]. Odrzucili ideę wspólnoty, obawiając się, że ponownie znajdą się pod naszą kontrolą jako kolonia."
+ lar_portugal_promote_monarchist_cause.104.a: "Ich strata."
+
+ lar_portugal_promote_monarchist_cause.105.t: "[POR.GetNameDefCap] proponuje unię personalną"
+ lar_portugal_promote_monarchist_cause.105.desc: "Rząd [POR.GetNameDef] przedstawił nam śmiałą propozycję: ustanowienie unii personalnej między naszymi koronami. Twierdzą, że zjednoczenie pod jednym monarchą zapewni stabilność, dobrobyt i większy wpływ na arenie międzynarodowej. Taki układ wzmocni więzi między naszymi narodami, ale wymagałby zaakceptowania pewnego stopnia portugalskiego przywództwa w naszych sprawach."
+ lar_portugal_promote_monarchist_cause.105.a: "Zjednoczona korona przyniesie siłę i chwałę."
+ lar_portugal_promote_monarchist_cause.105.b: "Nie oddamy naszej suwerenności Lizbonie."
+
+ lar_portugal_promote_monarchist_cause.106.t: "[SPB.GetNameDefCap] akceptuje unię"
+ lar_portugal_promote_monarchist_cause.106.desc: "Nasza propozycja przyniosła owoce: rząd karlistów formalnie zaakceptował ustanowienie unii personalnej. Łącząc nasze korony, narody iberyjskie są teraz zjednoczone pod jednym monarchą. To początek nowej ery dla świata luzofonii i hiszpańskojęzycznego, obiecujący siłę, stabilność i wpływy, których żaden naród nie osiągnąłby samodzielnie."
+ lar_portugal_promote_monarchist_cause.106.a: "Chwalebna unia koron!"
+
+ lar_portugal_promote_monarchist_cause.107.t: "[SPB.GetNameDefCap] odrzuca unię"
+ lar_portugal_promote_monarchist_cause.107.desc: "Nasze starania spotkały się z chłodną odmową. Rząd karlistów odrzucił propozycję unii personalnej, nie chcąc dzielić się lub oddać suwerenności Lizbonie. Choć nasza wizja zjednoczonej korony iberyjskiej została odłożona na bok, idea ta wciąż żyje i być może pewnego dnia dostrzegą mądrość jedności."
+ lar_portugal_promote_monarchist_cause.107.a: "Krótkowzroczna decyzja..."

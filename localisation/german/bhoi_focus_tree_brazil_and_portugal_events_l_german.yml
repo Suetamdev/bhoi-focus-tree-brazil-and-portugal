@@ -1,0 +1,34 @@
+﻿l_german:
+
+ # Ereignisse
+ lar_portugal_promote_monarchist_cause.101.t: "Das Königreich Portugal und Brasilien vereinen"
+ lar_portugal_promote_monarchist_cause.101.desc: "[POR.GetNameDefCap] hat unsere Regierung kontaktiert und die Vereinigung unserer Nationen unter der Führung von Dom Duarte Nuno vorgeschlagen, der zum König von Portugal und Brasilien gekrönt werden soll. \n\nDie [POR.GetAdjective] Regierung hat erklärt, dass sie keine negative Antwort akzeptiert und uns gebeten, den Vorschlag anzunehmen, um einen möglichen Konflikt zwischen unseren Nationen zu vermeiden."
+ lar_portugal_promote_monarchist_cause.101.a: "[Root.GetNameDefCap] und [POR.GetNameDef] werden wieder vereint."
+ lar_portugal_promote_monarchist_cause.101.b: "[Root.GetNameDefCap] bleibt eine unabhängige Nation."
+ lar_portugal_promote_monarchist_cause.101.c: "Eigentlich würden wir es lieber als Commonwealth sehen."
+
+ lar_portugal_promote_monarchist_cause.102.t: "[BRA.GetNameDefCap] schlägt Commonwealth vor"
+ lar_portugal_promote_monarchist_cause.102.desc: "Unser jüngster Vorschlag an [BRA.GetNameDef] hat eine überraschende Antwort erhalten. [BRA.GetNameDefCap] lehnt die Idee der Vereinigung ab, schlägt stattdessen aber ein Commonwealth für unsere beiden Nationen vor. Das würde uns einige Vorteile der Vereinigung bringen, weniger Nachteile, und beiden Nationen erlauben, ihre eigene Identität zu behalten."
+ lar_portugal_promote_monarchist_cause.102.a: "Natürlich, das könnte uns genauso gut nützen!"
+ lar_portugal_promote_monarchist_cause.102.b: "Ein Commonwealth mit unserer alten Kolonie? Absolut nicht."
+
+ lar_portugal_promote_monarchist_cause.103.t: "[POR.GetNameDefCap] stimmt der Gründung des Commonwealth zu"
+ lar_portugal_promote_monarchist_cause.103.desc: "Unser Gegenvorschlag, ein Commonwealth zu gründen statt direkt [POR.GetNameDef] beizutreten, wurde von der [POR.GetAdjective] Führung gut aufgenommen. Sie haben die Idee der Vereinigung aufgegeben und stimmen zu, dass ein Commonwealth für uns beide großartig wäre."
+ lar_portugal_promote_monarchist_cause.103.a: "Ausgezeichnet!"
+
+ lar_portugal_promote_monarchist_cause.104.t: "[BRA.GetNameDefCap] lehnt Commonwealth-Vorschlag ab"
+ lar_portugal_promote_monarchist_cause.104.desc: "Unser Gegenvorschlag, ein Commonwealth zu gründen statt direkt [BRA.GetNameDef] beizutreten, wurde von der [BRA.GetAdjective] Führung schlecht aufgenommen. Sie lehnen die Idee eines Commonwealth ab und befürchten, wieder unter unsere Kontrolle als Kolonie zu geraten."
+ lar_portugal_promote_monarchist_cause.104.a: "Ihr Verlust."
+
+ lar_portugal_promote_monarchist_cause.105.t: "[POR.GetNameDefCap] schlägt Personalunion vor"
+ lar_portugal_promote_monarchist_cause.105.desc: "Die Regierung von [POR.GetNameDef] ist mit einem kühnen Vorschlag an uns herangetreten: die Gründung einer Personalunion zwischen unseren Kronen. Sie argumentieren, dass die iberischen Völker durch die Vereinigung unter einem Monarchen Stabilität, Wohlstand und größeren Einfluss auf der Weltbühne sichern können. Ein solches Arrangement würde die Bindungen zwischen unseren Nationen stärken, erfordert aber auch, dass wir einen gewissen Grad an portugiesischer Führung in unseren Angelegenheiten akzeptieren."
+ lar_portugal_promote_monarchist_cause.105.a: "Eine vereinte Krone bringt Stärke und Ruhm."
+ lar_portugal_promote_monarchist_cause.105.b: "Wir werden unsere Souveränität nicht Lissabon unterwerfen."
+
+ lar_portugal_promote_monarchist_cause.106.t: "[SPB.GetNameDefCap] akzeptiert die Union"
+ lar_portugal_promote_monarchist_cause.106.desc: "Unser Vorschlag war erfolgreich: Die karlistische Regierung hat die Gründung einer Personalunion offiziell akzeptiert. Durch die Vereinigung unserer Kronen stehen die iberischen Völker nun unter einem Monarchen vereint. Dieser Moment markiert den Beginn einer neuen Ära für die lusophonen und hispanischen Welten und verspricht Stärke, Stabilität und Einfluss, die keine Nation allein erreichen könnte."
+ lar_portugal_promote_monarchist_cause.106.a: "Eine glorreiche Vereinigung der Kronen!"
+
+ lar_portugal_promote_monarchist_cause.107.t: "[SPB.GetNameDefCap] lehnt die Union ab"
+ lar_portugal_promote_monarchist_cause.107.desc: "Unsere Vorschläge wurden mit kalter Ablehnung aufgenommen. Die karlistische Regierung hat den Vorschlag einer Personalunion abgelehnt und will die Souveränität nicht mit Lissabon teilen oder abgeben. Obwohl unsere Vision einer vereinten iberischen Krone vorerst beiseitegelegt wurde, bleibt die Idee lebendig, und vielleicht erkennen sie eines Tages die Weisheit der Einheit."
+ lar_portugal_promote_monarchist_cause.107.a: "Eine kurzsichtige Entscheidung..."

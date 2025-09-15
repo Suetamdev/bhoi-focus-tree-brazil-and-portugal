@@ -1,0 +1,34 @@
+﻿l_russian:
+
+ # События
+ lar_portugal_promote_monarchist_cause.101.t: "Воссоединить королевство Португалии и Бразилии"
+ lar_portugal_promote_monarchist_cause.101.desc: "[POR.GetNameDefCap] связался с нашим правительством, предложив объединить наши страны под руководством Дона Дуарте Нуну, который будет коронован как король Португалии и Бразилии.\n\n[POR.GetAdjective] правительство не принимает отказа и просит нас принять предложение, чтобы избежать возможного конфликта между нашими странами."
+ lar_portugal_promote_monarchist_cause.101.a: "[Root.GetNameDefCap] и [POR.GetNameDef] снова будут едины."
+ lar_portugal_promote_monarchist_cause.101.b: "[Root.GetNameDefCap] останется независимым государством."
+ lar_portugal_promote_monarchist_cause.101.c: "На самом деле мы бы предпочли содружество."
+
+ lar_portugal_promote_monarchist_cause.102.t: "[BRA.GetNameDefCap] предлагает содружество"
+ lar_portugal_promote_monarchist_cause.102.desc: "Наше недавнее предложение [BRA.GetNameDef] получило неожиданный ответ. [BRA.GetNameDefCap] отвергает идею объединения, но вместо этого предлагает содружество для наших двух стран. Это даст нам часть преимуществ объединения, меньше недостатков и позволит обеим странам сохранить свою уникальную идентичность."
+ lar_portugal_promote_monarchist_cause.102.a: "Конечно, это тоже может нам подойти!"
+ lar_portugal_promote_monarchist_cause.102.b: "Содружество с нашей бывшей колонией? Ни за что."
+
+ lar_portugal_promote_monarchist_cause.103.t: "[POR.GetNameDefCap] соглашается на создание содружества"
+ lar_portugal_promote_monarchist_cause.103.desc: "Наше встречное предложение о создании содружества вместо прямого объединения с [POR.GetNameDef] было хорошо воспринято руководством [POR.GetAdjective]. Они отказались от идеи объединения и согласились, что содружество будет выгодно для обеих сторон."
+ lar_portugal_promote_monarchist_cause.103.a: "Отлично!"
+
+ lar_portugal_promote_monarchist_cause.104.t: "[BRA.GetNameDefCap] отвергает предложение о содружестве"
+ lar_portugal_promote_monarchist_cause.104.desc: "Наше встречное предложение о создании содружества вместо прямого объединения с [BRA.GetNameDef] было плохо воспринято руководством [BRA.GetAdjective]. Они отвергли идею содружества, опасаясь, что снова окажутся под нашим контролем как колония."
+ lar_portugal_promote_monarchist_cause.104.a: "Их потеря."
+
+ lar_portugal_promote_monarchist_cause.105.t: "[POR.GetNameDefCap] предлагает личную унию"
+ lar_portugal_promote_monarchist_cause.105.desc: "Правительство [POR.GetNameDef] выступило с дерзким предложением: создание личной унии между нашими коронами. Они утверждают, что, объединившись под одним монархом, иберийские народы смогут обеспечить стабильность, процветание и большее влияние на мировой арене. Такой порядок укрепит связи между нашими странами, но потребует от нас принятия определённой степени португальского руководства в наших делах."
+ lar_portugal_promote_monarchist_cause.105.a: "Объединённая корона принесёт силу и славу."
+ lar_portugal_promote_monarchist_cause.105.b: "Мы не уступим наш суверенитет Лиссабону."
+
+ lar_portugal_promote_monarchist_cause.106.t: "[SPB.GetNameDefCap] принимает унию"
+ lar_portugal_promote_monarchist_cause.106.desc: "Наше предложение принесло плоды: карлистское правительство официально приняло создание личной унии. Объединив наши короны, иберийские народы теперь объединены под одним монархом. Этот момент знаменует начало новой эры для лузофонского и испаноязычного мира, обещая силу, стабильность и влияние, которых ни одна страна не смогла бы достичь в одиночку."
+ lar_portugal_promote_monarchist_cause.106.a: "Славное объединение корон!"
+
+ lar_portugal_promote_monarchist_cause.107.t: "[SPB.GetNameDefCap] отвергает унию"
+ lar_portugal_promote_monarchist_cause.107.desc: "Наши усилия были встречены холодным отказом. Карлистское правительство отклонило предложение о личной унии, не желая делиться или уступать суверенитет Лиссабону. Хотя наша идея объединённой иберийской короны отложена, она всё ещё жива, и, возможно, однажды они увидят мудрость единства."
+ lar_portugal_promote_monarchist_cause.107.a: "Недальновидное решение..."

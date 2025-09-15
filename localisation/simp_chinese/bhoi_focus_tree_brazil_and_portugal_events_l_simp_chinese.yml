@@ -1,0 +1,34 @@
+﻿l_simp_chinese:
+
+ # Events
+ lar_portugal_promote_monarchist_cause.101.t: "重聚葡萄牙与巴西王国"
+ lar_portugal_promote_monarchist_cause.101.desc: "[POR.GetNameDefCap]联系了我们的政府，提议在杜阿尔特·努诺的领导下统一两国，并加冕他为葡萄牙和巴西的国王。\n\n[POR.GetAdjective]政府表示不接受否定答复，并要求我们接受提议以避免两国间的潜在冲突。"
+ lar_portugal_promote_monarchist_cause.101.a: "[Root.GetNameDefCap]与[POR.GetNameDef]将再次合一。"
+ lar_portugal_promote_monarchist_cause.101.b: "[Root.GetNameDefCap]将保持独立国家。"
+ lar_portugal_promote_monarchist_cause.101.c: "其实我们更倾向于联邦。"
+
+ lar_portugal_promote_monarchist_cause.102.t: "[BRA.GetNameDefCap]提议联邦"
+ lar_portugal_promote_monarchist_cause.102.desc: "我们最近向[BRA.GetNameDef]提出的建议得到了意外的回应。[BRA.GetNameDefCap]拒绝统一，但提出两国建立联邦。这样既能享受统一的部分好处，又能减少弊端，并让两国保持各自的独特身份。"
+ lar_portugal_promote_monarchist_cause.102.a: "当然，这对我们也有利！"
+ lar_portugal_promote_monarchist_cause.102.b: "和旧殖民地联邦？绝不可能。"
+
+ lar_portugal_promote_monarchist_cause.103.t: "[POR.GetNameDefCap]同意建立联邦"
+ lar_portugal_promote_monarchist_cause.103.desc: "我们提出建立联邦而非直接统一的反建议得到了[POR.GetAdjective]领导层的认可。他们放弃了统一的想法，同意联邦对双方都有好处。"
+ lar_portugal_promote_monarchist_cause.103.a: "太棒了！"
+
+ lar_portugal_promote_monarchist_cause.104.t: "[BRA.GetNameDefCap]拒绝联邦提议"
+ lar_portugal_promote_monarchist_cause.104.desc: "我们提出建立联邦而非直接统一的反建议被[BRA.GetAdjective]领导层否定。他们担心再次沦为殖民地，拒绝了联邦的想法。"
+ lar_portugal_promote_monarchist_cause.104.a: "那是他们的损失。"
+
+ lar_portugal_promote_monarchist_cause.105.t: "[POR.GetNameDefCap]提议共主联邦"
+ lar_portugal_promote_monarchist_cause.105.desc: "[POR.GetNameDef]政府提出了大胆建议：建立两国王冠的共主联邦。他们认为，在一位君主的领导下，伊比利亚民族将获得稳定、繁荣和更大的国际影响力。这种体制将加强两国联系，但也需要我们在内政上接受葡萄牙的部分主导。"
+ lar_portugal_promote_monarchist_cause.105.a: "统一的王冠将带来力量与荣耀。"
+ lar_portugal_promote_monarchist_cause.105.b: "我们不会将主权交给里斯本。"
+
+ lar_portugal_promote_monarchist_cause.106.t: "[SPB.GetNameDefCap]接受联邦"
+ lar_portugal_promote_monarchist_cause.106.desc: "我们的提议取得了成果。卡洛斯派政府正式同意建立共主联邦。王冠的统一让伊比利亚民族在一位君主下团结。这是卢索与西语世界新时代的开端，带来单一国家无法实现的力量、稳定与影响力。"
+ lar_portugal_promote_monarchist_cause.106.a: "王冠的光荣统一！"
+
+ lar_portugal_promote_monarchist_cause.107.t: "[SPB.GetNameDefCap]拒绝联邦"
+ lar_portugal_promote_monarchist_cause.107.desc: "我们的提议被冷漠拒绝。卡洛斯派政府拒绝了共主联邦的建议，不愿将主权交给里斯本。伊比利亚王冠统一的梦想暂时搁置，但理念仍在，也许有一天他们会明白团结的智慧。"
+ lar_portugal_promote_monarchist_cause.107.a: "目光短浅的决定……"

@@ -1,6 +1,6 @@
 ﻿l_french:
 
- # Brésil
+ # Brazil
  BRA_second_paraguay_war:0 "Deuxième Guerre du Paraguay"
  BRA_second_paraguay_war_desc:0 "La guerre du Paraguay fut un événement sanglant, devenant l'un des facteurs qui ont conduit à la chute de notre monarchie il y a des années. Cette fois, nous prouverons la puissance de notre nouveau régime en battant complètement notre ancien ennemi et en assurant notre suprématie sur le bassin du Río de la Plata."
  BRA_supremacy_in_the_south:0 "Suprématie dans le Sud"
@@ -39,7 +39,7 @@
  POR_brazilian_clains:0 "Revendiquer le Brésil"
  POR_brazilian_clains_desc:0 "Les terres autrefois détenues par les colonies espagnoles et portugaises devraient maintenant être revendiquées à juste titre par le Brésil."
 
- # Commonwealth lusophone
+ # Lusophone Commonwealth
  LUSOPHONE_commonwealth_capital:0 "La Capitale du Commonwealth lusophone"
  LUSOPHONE_commonwealth_capital_desc:0 "Avec l'établissement du Commonwealth lusophone, la question se pose : où sera son cœur ?"
  LUSOPHONE_high_command:0 "Haut Commandement Lusophone"
@@ -111,7 +111,7 @@
  LUSOPHONE_standardize_aerial_production:0 "Standardiser la Production Aérienne"
  LUSOPHONE_standardize_aerial_production_desc:0 "Pour optimiser et améliorer les capacités de notre force aérienne, le Commonwealth lusophone standardisera les processus de production aérienne."
 
- # Focalisation Partagée Lusophone
+ # Shared Lusophone Focus
  lc_army_effort: "$army_effort$"
  lc_army_effort_desc: "$army_effort_desc$"
  lc_equipment_effort: "$equipment_effort$"

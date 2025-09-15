@@ -1,0 +1,34 @@
+﻿l_spanish:
+
+ # Events
+ lar_portugal_promote_monarchist_cause.101.t: "Reunificar el Reino de Portugal y Brasil"
+ lar_portugal_promote_monarchist_cause.101.desc: "[POR.GetNameDefCap] se ha puesto en contacto con nuestro gobierno, proponiendo la unificación de nuestras naciones bajo el mando de Dom Duarte Nuno, quien será coronado rey de Portugal y Brasil.\n\nEl gobierno [POR.GetAdjective] ha dicho que no acepta una respuesta negativa y nos ha pedido aceptar la propuesta para evitar un posible conflicto entre nuestras naciones."
+ lar_portugal_promote_monarchist_cause.101.a: "[Root.GetNameDefCap] y [POR.GetNameDef] se unirán de nuevo."
+ lar_portugal_promote_monarchist_cause.101.b: "[Root.GetNameDefCap] seguirá siendo una nación independiente."
+ lar_portugal_promote_monarchist_cause.101.c: "En realidad preferiríamos una mancomunidad."
+
+ lar_portugal_promote_monarchist_cause.102.t: "[BRA.GetNameDefCap] propone una mancomunidad"
+ lar_portugal_promote_monarchist_cause.102.desc: "Nuestra reciente propuesta a [BRA.GetNameDef] ha recibido una respuesta sorprendente. [BRA.GetNameDefCap] rechaza la idea de la unificación, pero en su lugar propone una mancomunidad para nuestras dos naciones. Esto nos daría algunos de los beneficios de la unificación, menos inconvenientes y permitiría que ambas naciones mantuvieran su propia identidad."
+ lar_portugal_promote_monarchist_cause.102.a: "¡Por supuesto, esto también nos puede beneficiar!"
+ lar_portugal_promote_monarchist_cause.102.b: "¿Una mancomunidad con nuestra antigua colonia? Absolutamente no."
+
+ lar_portugal_promote_monarchist_cause.103.t: "[POR.GetNameDefCap] acepta establecer la mancomunidad"
+ lar_portugal_promote_monarchist_cause.103.desc: "Nuestra contrapropuesta de establecer una mancomunidad en lugar de unirnos directamente a [POR.GetNameDef] ha sido bien recibida por el liderazgo [POR.GetAdjective]. Han renunciado a la idea de la unificación y están de acuerdo en que una mancomunidad sería excelente para ambos."
+ lar_portugal_promote_monarchist_cause.103.a: "¡Excelente!"
+
+ lar_portugal_promote_monarchist_cause.104.t: "[BRA.GetNameDefCap] rechaza la propuesta de mancomunidad"
+ lar_portugal_promote_monarchist_cause.104.desc: "Nuestra contrapropuesta de establecer una mancomunidad en lugar de unirnos directamente a [BRA.GetNameDef] ha sido mal recibida por el liderazgo [BRA.GetAdjective]. Han rechazado la idea de la mancomunidad por temor a volver a estar bajo nuestro control como colonia."
+ lar_portugal_promote_monarchist_cause.104.a: "Es su pérdida."
+
+ lar_portugal_promote_monarchist_cause.105.t: "[POR.GetNameDefCap] propone una unión personal"
+ lar_portugal_promote_monarchist_cause.105.desc: "El gobierno de [POR.GetNameDef] se ha acercado a nosotros con una audaz propuesta: el establecimiento de una unión personal entre nuestras coronas. Argumentan que al unirnos bajo un solo monarca, los pueblos ibéricos pueden asegurar estabilidad, prosperidad y mayor influencia en el mundo. Tal acuerdo fortalecería los lazos entre nuestras naciones, pero también requeriría que aceptáramos cierto grado de liderazgo portugués en nuestros asuntos."
+ lar_portugal_promote_monarchist_cause.105.a: "Una corona unida traerá fuerza y gloria."
+ lar_portugal_promote_monarchist_cause.105.b: "No cederemos nuestra soberanía a Lisboa."
+
+ lar_portugal_promote_monarchist_cause.106.t: "[SPB.GetNameDefCap] acepta la unión"
+ lar_portugal_promote_monarchist_cause.106.desc: "Nuestra propuesta ha dado frutos: el gobierno carlista ha aceptado formalmente el establecimiento de una unión personal. Al unir nuestras coronas, los pueblos ibéricos ahora están unidos bajo un solo monarca. Este momento marca el inicio de una nueva era para el mundo lusófono e hispano, prometiendo fuerza, estabilidad e influencia que ninguna nación podría lograr por sí sola."
+ lar_portugal_promote_monarchist_cause.106.a: "¡Una gloriosa unión de coronas!"
+
+ lar_portugal_promote_monarchist_cause.107.t: "[SPB.GetNameDefCap] rechaza la unión"
+ lar_portugal_promote_monarchist_cause.107.desc: "Nuestras propuestas han sido recibidas con un frío rechazo. El gobierno carlista ha rechazado la propuesta de unión personal, reacio a compartir o ceder soberanía a Lisboa. Aunque nuestra visión de una corona ibérica unida ha sido pospuesta, la idea sigue viva y quizás algún día vean la sabiduría de la unidad."
+ lar_portugal_promote_monarchist_cause.107.a: "Una decisión miope..."
