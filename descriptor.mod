@@ -6,5 +6,5 @@ tags={
 	"National Focuses"
 }
 name="BHOI - Focus Tree - Brazil and Portugal"
-supported_version="1.16.*"
+supported_version="1.17.*"
 remote_file_id="3563588385"

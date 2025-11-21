@@ -195,7 +195,7 @@ focus_tree = {
 					}
 					transfer_state = 892
 					POR = { set_country_flag = POR_released_angola_flag }
-				}
+				}							
 				load_focus_tree = lusophone_commonwealth_releasable
 				if = {
 					limit = {
@@ -314,7 +314,7 @@ focus_tree = {
 		y = 0
 
 		relative_position_id = POR_limited_self_rule
-		cost = 35
+		cost = 10
 		search_filters = {FOCUS_FILTER_INDUSTRY}
 		completion_reward = { 
 
@@ -850,11 +850,11 @@ focus_tree = {
 
 	focus = {
 		id = POR_modernize_lisbon_industry
-		available = {
+		available = {			
 			has_full_control_of_state = 112
 		}
 
-		bypass = {
+		bypass = {		
 		}
 		prerequisite = { focus = POR_instituto_superior_tecnico }
 		icon = GFX_goal_generic_construct_civilian
@@ -864,14 +864,14 @@ focus_tree = {
 		relative_position_id = POR_instituto_superior_tecnico
 		cost = 5
 		search_filters = {FOCUS_FILTER_INDUSTRY FOCUS_FILTER_RESEARCH}
-		completion_reward = {
-			112 = {
+		completion_reward = { 			
+				112 = {
 				add_extra_state_shared_building_slots = 2
-				add_building_construction = {
+					add_building_construction = {
 					type = industrial_complex
-					level = 1
-					instant_build = yes
-				}
+						level = 1
+						instant_build = yes
+					}
 				add_building_construction = {
 					type = dockyard
 					level = 1
@@ -900,7 +900,7 @@ focus_tree = {
 		completion_reward = {
 			custom_effect_tooltip = POR_expand_fmg_tooltip
 			IF = {
-				limit = {
+					limit = {
 					has_dlc = "Arms Against Tyranny"
 				}
 				mio:POR_fabrica_material_guerra_organization = {
@@ -1009,17 +1009,17 @@ focus_tree = {
 		completion_reward = {
 			180 = {
 				add_extra_state_shared_building_slots = 2
-				add_building_construction = {
+					add_building_construction = {
 					type = industrial_complex
-					level = 1
-					instant_build = yes
-				}
+						level = 1
+						instant_build = yes
+					}
 				add_building_construction = {
 					type = dockyard
 					level = 1
 					instant_build = yes
 				}
-			}
+			}	
 		}
 	}
 
@@ -1051,7 +1051,7 @@ focus_tree = {
 		bypass = {		
 		}
 		prerequisite = { focus = POR_invest_in_our_companies }
-		
+
 		icon = GFX_goal_generic_army_artillery
 		x = -4
 		y = 1
@@ -1146,7 +1146,7 @@ focus_tree = {
 
 	focus = {
 		id = POR_ogme
-		available = {			
+		available = {	
 		}
 
 		bypass = {		
@@ -1362,7 +1362,7 @@ focus_tree = {
 
 		bypass = {		
 		}
-		prerequisite = { focus = POR_fabrequipa}
+		prerequisite = { focus = POR_fabrequipa}	
 		icon = GFX_goal_generic_army_tanks
 		x = 0
 		y = 1
@@ -1404,7 +1404,7 @@ focus_tree = {
 			add_tech_bonus = {
 				name = POR_armor_focus
 			    bonus = 1.0
-				ahead_reduction = 1
+ahead_reduction = 1
 			    uses = 1
 			    category = armor
 			}
@@ -1413,10 +1413,10 @@ focus_tree = {
 
 	focus = {
 		id = POR_arsenal_do_alfeite
-		available = {
+		available = {			
 		}
 
-		bypass = {
+		bypass = {		
 		}
 		prerequisite = { focus = POR_invest_in_our_companies }
 
@@ -1539,11 +1539,11 @@ focus_tree = {
 		relative_position_id = POR_strengthen_our_navy
 		cost = 10
 		search_filters = {FOCUS_FILTER_RESEARCH}
-		completion_reward = {
+		completion_reward = { 	
 			add_tech_bonus = {
 				name = POR_national_cruiser_production
-				bonus = 1.0
-				uses = 1
+			    bonus = 1.0
+			    uses = 1
 				category = ca_tech
 			}
 			add_tech_bonus = {
@@ -2091,12 +2091,12 @@ focus_tree = {
 
 	focus = {
 		id = POR_battleship_effort
-		available = {
+		available = {			
 		}
 
-		bypass = {
+		bypass = {		
 		}
-		prerequisite = { focus = POR_a_powerful_merchant_marine }
+		prerequisite = { focus = POR_a_powerful_merchant_marine }			
 		icon = GFX_focus_generic_navy_battleship2
 		x = -2
 		y = 1
@@ -2104,18 +2104,19 @@ focus_tree = {
 		relative_position_id = POR_a_powerful_merchant_marine
 		cost = 10
 		search_filters = {FOCUS_FILTER_RESEARCH}
-		completion_reward = {
+		completion_reward = { 	
 			add_tech_bonus = {
 				name = POR_battleship_effort
-				bonus = 0.75
-				uses = 2
-				category = bb_tech
+			    bonus = 0.75
+			    uses = 2
+			    category = bb_tech
 			}
-			add_doctrine_cost_reduction = {
+			add_mastery_bonus = {
 				name = POR_battleship_effort
-				cost_reduction = 0.5
-				uses = 1
-				category = cat_fleet_in_being
+				bonus = 0.2
+				days = 240
+				grand_doctrine = new_fleet_in_being
+				track = capital_ships
 			}
 		}
 	}
@@ -2127,7 +2128,7 @@ focus_tree = {
 
 		bypass = {		
 		}
-		prerequisite = { focus = POR_a_powerful_merchant_marine }			
+		prerequisite = { focus = POR_a_powerful_merchant_marine }
 		icon = GFX_goal_generic_amphibious_assault
 		x = 0
 		y = 1
@@ -2135,7 +2136,7 @@ focus_tree = {
 		relative_position_id = POR_a_powerful_merchant_marine
 		cost = 10
 		search_filters = {FOCUS_FILTER_RESEARCH}
-		completion_reward = { 	
+		completion_reward = { 
 			add_tech_bonus = {
 				name = POR_merchant_marine_protection
 			    bonus = 1.0
@@ -2147,44 +2148,47 @@ focus_tree = {
 		    	limit = {
 		    		has_dlc = "Man the Guns"		    		
 		    	}
-		    	add_tech_bonus = {
-		    		name = POR_merchant_marine_protection
+			add_tech_bonus = {
+				name = POR_merchant_marine_protection
 				    bonus = 0.5
-				    uses = 2
-				    category = asw_tech		   
-				}
-		    }						
+			    uses = 2
+			    category = asw_tech	   
+			}
+			}
 		}
 	}
 
 	focus = {
 		id = POR_carrier_effort
-		available = {
+		available = {			
 		}
 
-		bypass = {
+		bypass = {		
 		}
-		prerequisite = { focus = POR_a_powerful_merchant_marine }
+		prerequisite = { focus = POR_a_powerful_merchant_marine }			
 		icon = GFX_goal_generic_navy_carrier
-		x = 2
+		x = 2		
 		y = 1
 
 		relative_position_id = POR_a_powerful_merchant_marine
 		cost = 10
 		search_filters = {FOCUS_FILTER_RESEARCH}
-		completion_reward = {
+		completion_reward = { 	
 			add_tech_bonus = {
 				name = POR_carrier_effort
-				bonus = 1.0
-				uses = 2
-				category = cv_tech
+			    bonus = 1.0
+			    uses = 2
+			    category = cv_tech	   
 			}
-			add_doctrine_cost_reduction = {
+
+			add_mastery_bonus = {
 				name = POR_carrier_effort
-				cost_reduction = 0.5
-				uses = 1
-				category = base_strike_main
+				bonus = 0.2
+				days = 240
+				grand_doctrine = new_base_strike
+				track = carriers
 			}
+			
 		}
 	}
 
@@ -2195,31 +2199,31 @@ focus_tree = {
 				has_full_control_of_state = 698
 				has_full_control_of_state = 697
 				has_full_control_of_state = 702
-			}
+			}			
 		}
 
-		bypass = {
+		bypass = {		
 		}
 		prerequisite = { focus = POR_merchant_marine_protection }
 		icon = GFX_focus_generic_destroyer
-		x = 0
+		x = 0		
 		y = 1
 
 		relative_position_id = POR_merchant_marine_protection
 		cost = 5
-		completion_reward = {
+		completion_reward = { 
 			if = {
 				limit = { has_full_control_of_state = 698 }
 				698 = { #Azores
 					add_building_construction = {
-						type = coastal_bunker
+						type = coastal_bunker		
 						level = 2
 						province = 1751
 						instant_build = yes
 					}
 
 					add_building_construction = {
-						type = air_base
+						type = air_base	
 						level = 1
 						instant_build = yes
 					}
@@ -2230,14 +2234,14 @@ focus_tree = {
 				limit = { has_full_control_of_state = 697 }
 				697 = { #Madeira
 					add_building_construction = {
-						type = coastal_bunker
+						type = coastal_bunker		
 						level = 1
 						province = 3118
 						instant_build = yes
 					}
 
 					add_building_construction = {
-						type = air_base
+						type = air_base	
 						level = 1
 						instant_build = yes
 					}
@@ -2248,19 +2252,19 @@ focus_tree = {
 				limit = { has_full_control_of_state = 702 }
 				702 = { #Cape Verde
 					add_building_construction = {
-						type = coastal_bunker
+						type = coastal_bunker		
 						level = 1
 						province = 13014
 						instant_build = yes
 					}
 
 					add_building_construction = {
-						type = air_base
+						type = air_base	
 						level = 1
 						instant_build = yes
 					}
 				}
-			}
+			}			
 		}
 	}
 
@@ -2286,9 +2290,9 @@ focus_tree = {
 		search_filters = {FOCUS_FILTER_INDUSTRY}
 		completion_reward = {
 			add_ideas = POR_endless_sea
-			if = {
+ 			if = {
 				limit = { has_full_control_of_state = 321 }
-				321 = { #Goa
+	 			321 = { #Goa
 					add_building_construction = {
 						type = coastal_bunker
 						level = 1
@@ -2377,11 +2381,19 @@ focus_tree = {
 		cost = 10
 		search_filters = {FOCUS_FILTER_RESEARCH}
 		completion_reward = { 	
+			add_mastery_bonus = {
+				name = POR_submarine_effort
+				bonus = 0.1
+				days = 240
+				grand_doctrine = new_convoy_raiding
+				track = submarines
+			}
+
 			add_doctrine_cost_reduction = {
 				name = POR_submarine_effort
-			    cost_reduction = 0.5
+			    cost_reduction = 0.2
 			    uses = 1
-			    category = cat_trade_interdiction			   
+			    category = naval_doctrine			   
 			}
 
 			add_tech_bonus = {
@@ -3632,9 +3644,21 @@ focus_tree = {
 		y = 1
 
 		relative_position_id = POR_the_iberian_socialist_union
-		cost = 5
+		cost = 10
 		completion_reward = {
-			create_faction = POR_popular_front_bloc
+			IF = {
+				limit = {
+					has_dlc = "No Compromise, No Surrender"
+				}
+				set_rule = { can_create_factions = yes }
+				create_faction_from_template = faction_template_POR_popular_front_bloc
+				add_faction_initiative = 1
+			}
+			ELSE = {
+				set_rule = { can_create_factions = yes }
+				create_faction_from_template = faction_template_POR_popular_front_bloc
+			}
+
 			every_other_country = {
 				limit = {
 					capital_scope = { is_on_continent = europe }
@@ -4180,12 +4204,16 @@ focus_tree = {
 					NOT = { is_in_faction_with = ROOT } 
 				}
 			}
+			729 = {
+				is_controlled_by_ROOT_or_subject = yes
+			}
 		}
 
 		bypass = {		
 		}
-		prerequisite = { focus = POR_they_need_our_help focus = POR_allow_free_elections focus = POR_the_popular_front_bloc }			
+		prerequisite = { focus = POR_they_need_our_help focus = POR_allow_free_elections focus = POR_the_popular_front_bloc }	
 		icon = GFX_focus_chi_united_front
+
 		x = -2		
 		y = 1
 
@@ -5371,7 +5399,18 @@ focus_tree = {
 		available = {
 			JAP = {
 				exists = yes
-				NOT = { has_war_with = ROOT }
+				NOT = { 
+					has_war_with = ROOT 
+					is_ally_with = ROOT
+				}
+			}
+			OR = {
+				729 = {
+					is_controlled_by_ROOT_or_subject = yes
+				}
+				721 = {
+					is_controlled_by_ROOT_or_subject = yes
+				}
 			}
 		}
 
@@ -5599,15 +5638,21 @@ focus_tree = {
 		relative_position_id = POR_camisas_azuis
 		cost = 10
 		search_filters = {FOCUS_FILTER_MANPOWER FOCUS_FILTER_WAR_SUPPORT FOCUS_FILTER_POLITICAL FOCUS_FILTER_STABILITY FOCUS_FILTER_INDUSTRY}
+
 		completion_reward = { 	
+
 			add_ideas = POR_the_fifth_empire
+
+			custom_effect_tooltip = generic_skip_one_line_tt
+
 			remove_ideas = POR_unstable_republic
-			if = {
+			IF = {
 				limit = { is_in_faction = yes }
 				leave_faction = yes
 			}
 			set_rule = { can_create_factions = yes }
 			set_rule = { can_join_factions = no }
+
 			every_other_country = {
 				limit = {
 					NOT = { is_puppet_of = ROOT }
@@ -5621,6 +5666,9 @@ focus_tree = {
 					modifier = embargo
 				}
 			}
+
+			custom_effect_tooltip = generic_skip_one_line_tt
+
 			set_cosmetic_tag = POR_empire
 		}
 	}
@@ -5636,6 +5684,7 @@ focus_tree = {
 						controls_state = 594
 						controls_state = 325
 						controls_state = 613
+						controls_state = 1035
 						controls_state = 622
 						controls_state = 604
 						controls_state = 615
@@ -5840,7 +5889,18 @@ focus_tree = {
 		available = {
 			JAP = {
 				exists = yes
-				NOT = { is_in_faction_with = ROOT }
+				NOT = { 
+					has_war_with = ROOT 
+					is_ally_with = ROOT
+				}
+			}
+			OR = {
+				729 = {
+					is_controlled_by_ROOT_or_subject = yes
+				}
+				721 = {
+					is_controlled_by_ROOT_or_subject = yes
+				}
 			}
 		}
 
@@ -6704,7 +6764,7 @@ focus_tree = {
 				}
 			}
 		}
-	}	
+	}
 
 	focus = {
 		id = POR_the_royal_iberian_alliance
@@ -6748,7 +6808,7 @@ focus_tree = {
 		completion_reward = {
 			IF = {
 				limit = {
-					SPB = {
+			SPB = { 
 						is_subject = yes
 						NOT = {
 							is_subject_of = ROOT
@@ -7581,7 +7641,7 @@ focus_tree = {
 					}
 				}
 			}
-		}
+		}		
 	}
 
 	focus = {
@@ -7616,7 +7676,7 @@ focus_tree = {
 		y = 2
 
 		relative_position_id = POR_restoration_of_the_monarchy
-		cost = 5
+		cost = 10
 		completion_reward = { 	
 			add_state_claim = 170
 			add_state_claim = 169
